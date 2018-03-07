@@ -1,0 +1,11 @@
+[submodule "ChibiOS"]
+	path = ChibiOS
+	url = https://github.com/ChibiOS/ChibiOS.git
+[submodule "ChibiOS-Contrib"]
+	path = ChibiOS-Contrib
+	url = https://github.com/jakllsch/ChibiOS-Contrib.git
+	branch = ht32
+[submodule "tmk_core"]
+	path = tmk_core
+	url = https://github.com/jakllsch/tmk_core.git
+	branch = ht32
